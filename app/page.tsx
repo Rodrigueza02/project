@@ -79,7 +79,7 @@ export default function Home() {
       xmlns="http://www.w3.org/2000/svg"
       className="w-4 h-4"
       viewBox="0 0 24 24"
-      fill="#1877F2"
+      fill="#3d0946"
     >
       <path d="M22 12a10 10 0 10-11.5 9.9v-7H8v-3h2.5V9.5c0-2.5 1.5-3.9 3.8-3.9 1.1 0 2.2.2 2.2.2v2.4h-1.2c-1.2 0-1.6.8-1.6 1.6V12H16l-.4 3h-2.2v7A10 10 0 0022 12z"/>
     </svg>
