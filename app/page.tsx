@@ -2,10 +2,9 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-gradient-to-b from-[#D7C2D8] to-[#B96FA0] flex items-center justify-center p-6">
 
-      <div className="w-full max-w-6xl bg-[#F4F1F6] rounded-[30px] shadow-2xl overflow-hidden md:grid md:grid-cols-[45%_55%]">
-
+      <div className="w-full max-w-6xl bg-[#F4F1F6] rounded-[30px] shadow-2xl overflow-hidden flex flex-col md:grid md:grid-cols-[45%_55%]">
         {/* LEFT PANEL */}
-        <div className="relative h-[600px] md:h-auto">
+        <div className="relative h-[400px] md:h-auto">
 
           {/* Imagen ocupando TODO con 4 bordes redondeados */}
           <img
